@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color:red;
+    background-color:black;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 25px;
+
+}
+
+h2{
+    color: chartreuse;
+}
+img {
+width: 1000px;
+}
